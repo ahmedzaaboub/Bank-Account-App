@@ -1,0 +1,5 @@
+fr\societegenerale\Model\Account.class
+fr\societegenerale\Model\Statement.class
+fr\societegenerale\Model\StatementRecord.class
+fr\societegenerale\Model\Statement$SingletonHolder.class
+fr\societegenerale\Model\StatementRecord$OperationType.class
